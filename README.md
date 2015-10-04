@@ -18,6 +18,8 @@ See our [paper](http://tillnagel.com/wp-content/uploads/2012/06/Nagel-SankeyArcs
 
 Introduction into this technique with visual examples explaining the advantages to traditional arc diagrams, as well as its limitations. 
 
+![Sankey Arcs Algorithm](/data/images/sankeyArcsAlgorithm.png?raw=true "Sankey Arcs Algorithm")
+
 http://www.slideshare.net/tillnagel/sankey-arcs-visualizing-edge-weights-in-path-graphs
 
 
@@ -26,7 +28,10 @@ http://www.slideshare.net/tillnagel/sankey-arcs-visualizing-edge-weights-in-path
 http://tillnagel.com/wp-content/uploads/2012/06/Nagel-SankeyArcs-EuroVis11.pdf
 
 Please cite
+
 Nagel, T., Duval, E., Vande Moere, A., Kloeckl, K., Ratti, C. Sankey Arcs - Visualizing edge weights in path graphs. EuroVis Shorts, 2012
 
+
+***
 
 See also https://github.com/tillnagel/ArcSurvey
