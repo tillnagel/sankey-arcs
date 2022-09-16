@@ -11,7 +11,8 @@ which extends the arc diagram technique by laying out the weighted edges of a no
 aim of our Sankey Arc technique is to improve clarity, to enable users perceiving and comparing weighted edges
 in path graphs.
 
-See our [paper](http://tillnagel.com/wp-content/uploads/2012/06/Nagel-SankeyArcs-EuroVis11.pdf) for details.
+See our [paper](https://senseable.mit.edu/papers/pdf/20120605_Nagel_etal_SankeyArcs_Eurographics.pdf) for details.
+
 
 
 ## Presentation 
@@ -25,7 +26,7 @@ http://www.slideshare.net/tillnagel/sankey-arcs-visualizing-edge-weights-in-path
 
 ## Publication
 
-http://tillnagel.com/wp-content/uploads/2012/06/Nagel-SankeyArcs-EuroVis11.pdf
+https://senseable.mit.edu/papers/pdf/20120605_Nagel_etal_SankeyArcs_Eurographics.pdf
 
 Please cite
 
